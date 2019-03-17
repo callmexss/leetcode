@@ -1,4 +1,5 @@
 #!/bin/bash
 
-git commit -am'update solutions'
+git add -A
+git commit -m'update solutions'
 git push
