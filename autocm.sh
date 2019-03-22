@@ -1,9 +1,11 @@
 #!/bin/bash
 
+git add -A
+
 if [ -z "$1" ]; then
-    git commit -a -m "update solutions"
+    git commit -m "update solutions"
 else
-    git commit -a -m "$1"
+    git commit -m "$1"
 fi
 
 git push origin master
