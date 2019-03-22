@@ -5,3 +5,5 @@ if [ -z "$1" ]; then
 else
     git commit -a -m "$1"
 fi
+
+git push origin master
