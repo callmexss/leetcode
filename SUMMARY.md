@@ -1,4 +1,4 @@
 # 概要
 
 * [介绍](README.md)
-* [1](1.two-sum.md)
+* [1. Two Sum](1.two-sum.md)
