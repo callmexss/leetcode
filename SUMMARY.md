@@ -4,6 +4,7 @@
 * [1. Two Sum](1.two-sum.md)
 * [2. Add Two Numbers](2.add-two-numbers.md)
 * [3. Longest Substring Without Repeating Characters](3.longest-substring-without-repeating-characters.md)
+* [94. Binary Tree Inorder Traversal](94.binary-tree-inorder-traversal.md)
 * [104. Maximum Depth of Binary Tree](104.maximum-depth-of-binary-tree.md)
 * [107. Binary Tree Level Order Traversal II](107.binary-tree-level-order-traversal-ii.md)
 * [136. Single Number](136.single-number.md)
