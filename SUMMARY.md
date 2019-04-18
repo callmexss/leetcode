@@ -6,6 +6,7 @@
 * [3. Longest Substring Without Repeating Characters](3.longest-substring-without-repeating-characters.md)
 * [104. Maximum Depth of Binary Tree](104.maximum-depth-of-binary-tree.md)
 * [107. Binary Tree Level Order Traversal II](107.binary-tree-level-order-traversal-ii.md)
+* [136. Single Number](136.single-number.md)
 * [206. Reverse Linked List](206.reverse-linked-list.md)
 * [344. Reverse String](344.reverse-string.md)
 * [654. Maximum Binary Tree](654.maximum-binary-tree.md)
