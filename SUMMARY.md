@@ -11,6 +11,7 @@
 * [206. Reverse Linked List](206.reverse-linked-list.md)
 * [344. Reverse String](344.reverse-string.md)
 * [412. Fizz Buzz](412.fizz-buzz.md)
+* [633. Sum of Square Numbers](633.sum-of-square-numbers.md)
 * [654. Maximum Binary Tree](654.maximum-binary-tree.md)
 * [905. Sort Array By Parity](905.sort-array-by-parity.md)
 * [977. Squares of a Sorted Array](977.squares-of-a-sorted-array.md)
