@@ -16,3 +16,4 @@
 * [905. Sort Array By Parity](905.sort-array-by-parity.md)
 * [977. Squares of a Sorted Array](977.squares-of-a-sorted-array.md)
 * [1021. Remove Outermost Parentheses](1021.remove-outermost-parentheses.md)
+* [1022. Sum of Root To Leaf Binary Numbers](1022.sum-of-root-to-leaf-binary-numbers.md)
