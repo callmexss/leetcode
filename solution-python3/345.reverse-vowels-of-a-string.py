@@ -26,5 +26,6 @@ class Solution:
 
 if __name__ == '__main__':
     solution = Solution()
-    ret = solution.reverseVowels('bcd')
+    ret = solution.reverseVowels('aaee')
     print(ret)
+    import string
