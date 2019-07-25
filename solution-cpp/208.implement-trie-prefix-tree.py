@@ -63,7 +63,7 @@ class Trie:
             if not node.map[index]:
                 return False
             node = node.map[index]
-        return any(node.map)
+        return i == len(prefix) - 1 or any(node.map)
 
 
 # Your Trie object will be instantiated and called as such:
