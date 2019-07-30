@@ -5,6 +5,7 @@
 * [2. Add Two Numbers](2.add-two-numbers.md)
 * [3. Longest Substring Without Repeating Characters](3.longest-substring-without-repeating-characters.md)
 * [7. Reverse Integer](7.reverse-integer.md)
+* [9. Palindrome Number](9.palindrome-number.md)
 * [20. Valid Parentheses](20.valid-parentheses.md)
 * [94. Binary Tree Inorder Traversal](94.binary-tree-inorder-traversal.md)
 * [104. Maximum Depth of Binary Tree](104.maximum-depth-of-binary-tree.md)
