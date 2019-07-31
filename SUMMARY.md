@@ -7,6 +7,7 @@
 * [7. Reverse Integer](7.reverse-integer.md)
 * [9. Palindrome Number](9.palindrome-number.md)
 * [20. Valid Parentheses](20.valid-parentheses.md)
+* [88. Merge Sorted Array](88.merge-sorted-array.md)
 * [94. Binary Tree Inorder Traversal](94.binary-tree-inorder-traversal.md)
 * [104. Maximum Depth of Binary Tree](104.maximum-depth-of-binary-tree.md)
 * [107. Binary Tree Level Order Traversal II](107.binary-tree-level-order-traversal-ii.md)
