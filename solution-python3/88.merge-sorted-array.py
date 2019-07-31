@@ -72,3 +72,9 @@ if __name__ == '__main__':
     for i in range(10):
         print(i, ~i, bin(i), bin(~i % (1 << 8)))
 
+    # a[:k] = b[i, i+k]
+    a = [x for x in range(10)]
+    b = [x ** 2 for x in range(5)]
+    print(id(a), a)
+    a[:5] = b[:5]
+    print(id(a), a)
