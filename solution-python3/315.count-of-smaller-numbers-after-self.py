@@ -1,9 +1,5 @@
-from queue import Queue
-
-
 class Solution:
     pass
-
 
 def test(solution):
     testcases = ()
@@ -21,9 +17,7 @@ def bench_mark():
 if __name__ == '__main__':
     bench_mark()
 
-    q = Queue()
-    q.qsize()
-
-    li = [i for i in range(10) for j in range(10)]
-    print(li)
-
+    # something about range
+    print(range(10))  # range(0, 10)
+    print(range(10)[::-1]) # range(9, -1, -1)
+    

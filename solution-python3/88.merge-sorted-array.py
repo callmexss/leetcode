@@ -44,9 +44,7 @@ def bench_mark():
 if __name__ == '__main__':
     # bench_mark()
 
-
     print(~(-7))
-    exit(0)
     li = [1, 2, 3, 0, 0, 0]
     m = 3
     for i in range(m):
@@ -59,3 +57,24 @@ if __name__ == '__main__':
     print(li)
     print(id(li))
 
+    # for range[::-1]
+    print(range(10)[::-1])
+    for i in range(10)[::-1]:
+        print(i, end=' ')
+    print()
+
+    # for range with ~i
+    for i in range(10):
+        print(~i, end=' ')
+    print()
+
+    # i ~i
+    for i in range(10):
+        print(i, ~i, bin(i), bin(~i % (1 << 8)))
+
+    # a[:k] = b[i, i+k]
+    a = [x for x in range(10)]
+    b = [x ** 2 for x in range(5)]
+    print(id(a), a)
+    a[:5] = b[:5]
+    print(id(a), a)

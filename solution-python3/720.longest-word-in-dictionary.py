@@ -1,6 +1,3 @@
-from queue import Queue
-
-
 class Solution:
     pass
 
@@ -21,9 +18,11 @@ def bench_mark():
 if __name__ == '__main__':
     bench_mark()
 
-    q = Queue()
-    q.qsize()
+    li = ["a", "banana", "app", "appl", "ap", "apply", "apple",
+          "b", "ba", "ban", "bana", "banan"]
+    print(sorted(li))
 
-    li = [i for i in range(10) for j in range(10)]
-    print(li)
+    s = 'a'
+    print(s[0:0])  # ""
+    print(s[0:1])  # a
 
