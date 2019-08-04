@@ -7,6 +7,7 @@
 * [7. Reverse Integer](7.reverse-integer.md)
 * [9. Palindrome Number](9.palindrome-number.md)
 * [20. Valid Parentheses](20.valid-parentheses.md)
+* [55. Jump Game](55.jump-game.md)
 * [62. Unique Paths](62.unique-paths.md)
 * [88. Merge Sorted Array](88.merge-sorted-array.md)
 * [94. Binary Tree Inorder Traversal](94.binary-tree-inorder-traversal.md)
