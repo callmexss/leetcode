@@ -19,6 +19,7 @@
 * [412. Fizz Buzz](412.fizz-buzz.md)
 * [633. Sum of Square Numbers](633.sum-of-square-numbers.md)
 * [654. Maximum Binary Tree](654.maximum-binary-tree.md)
+* [826. Most Profit Assigning Work](826.most-profit-assigning-work.md)
 * [905. Sort Array By Parity](905.sort-array-by-parity.md)
 * [977. Squares of a Sorted Array](977.squares-of-a-sorted-array.md)
 * [1021. Remove Outermost Parentheses](1021.remove-outermost-parentheses.md)
