@@ -4,6 +4,7 @@
 * [1. Two Sum](1.two-sum.md)
 * [2. Add Two Numbers](2.add-two-numbers.md)
 * [3. Longest Substring Without Repeating Characters](3.longest-substring-without-repeating-characters.md)
+* [5. Longest Palindromic Substring](5.longest-palindromic-substring.md)
 * [7. Reverse Integer](7.reverse-integer.md)
 * [9. Palindrome Number](9.palindrome-number.md)
 * [20. Valid Parentheses](20.valid-parentheses.md)
