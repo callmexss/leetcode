@@ -21,6 +21,7 @@
 * [344. Reverse String](344.reverse-string.md)
 * [412. Fizz Buzz](412.fizz-buzz.md)
 * [493. Reverse Pairs](493.reverse-pair.md)
+* [496. Next Greater Element I](496.next-greater-element-i.md)
 * [633. Sum of Square Numbers](633.sum-of-square-numbers.md)
 * [654. Maximum Binary Tree](654.maximum-binary-tree.md)
 * [826. Most Profit Assigning Work](826.most-profit-assigning-work.md)
