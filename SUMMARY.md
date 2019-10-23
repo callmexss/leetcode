@@ -8,6 +8,7 @@
 * [7. Reverse Integer](7.reverse-integer.md)
 * [9. Palindrome Number](9.palindrome-number.md)
 * [20. Valid Parentheses](20.valid-parentheses.md)
+* [26. Remove Duplicates from Sorted Array](26.remove-duplicates-from-sorted-array.md)
 * [55. Jump Game](55.jump-game.md)
 * [62. Unique Paths](62.unique-paths.md)
 * [63. Unique Paths II](63.unique-paths-ii.md)
