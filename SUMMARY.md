@@ -20,6 +20,7 @@
 * [121. Best Time to Buy and Sell Stock](121.best-time-to-buy-and-sell-stock.md)
 * [136. Single Number](136.single-number.md)
 * [206. Reverse Linked List](206.reverse-linked-list.md)
+* [287. Find the Duplicate Number](287.find-the-duplicate-number.md)
 * [344. Reverse String](344.reverse-string.md)
 * [412. Fizz Buzz](412.fizz-buzz.md)
 * [493. Reverse Pairs](493.reverse-pair.md)
